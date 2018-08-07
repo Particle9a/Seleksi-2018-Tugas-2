@@ -42,3 +42,9 @@
   <br>
   <br>
 </p>
+
+### How To Use 
+#### 1.Open Terminal in Directory
+#### 2.Run python data_scraping.py in the terminal to gather data from IMDB Web
+#### 3.Run python data_visualizer.py in the terminal to change the Data gathered into pictures that's saved in the pic folder
+#### 4.Run python dashboard.py to enjoy the Dashboard
